@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#headline{
+    background-color: red;
+}
+
+#objeção{
+    background-color: blue;
+}
+
+#serviços{
+    background-color: green;
+}
+
+#nos{
+    background-color: yellow;
+}
+
+footer{
+    background-color: orange;
+}
